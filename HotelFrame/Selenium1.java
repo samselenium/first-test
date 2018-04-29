@@ -3,7 +3,7 @@ package world;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 //import org.openqa.selenium.chrome.ChromeDriver;
-//adding to github
+//adding to git hub
 public class Selenium1 {
 	//package newproject;
 	//import org.openqa.selenium.WebDriver;
